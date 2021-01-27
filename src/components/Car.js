@@ -1,7 +1,6 @@
 import React from 'react';
 import cars from '../cars.json';
 // import material ui components here //
-import Container from './Container';
 import Chip from './Chip';
 import { makeStyles } from '@material-ui/core/styles';
 import Paper from '@material-ui/core/Paper';
